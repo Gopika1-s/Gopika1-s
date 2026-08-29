@@ -25,7 +25,6 @@ I enjoy working at the intersection of:
 * 🔌 **Electronics & Embedded Systems**
 * 🌐 **Web Development**
 * 📡 **IoT & Connected Devices**
-* 🚁 **Robotics & Autonomous Systems**
 * 🧠 **Problem Solving & Research**
 
 I'm currently focused on improving my development skills while building real-world projects instead of only learning theory.
@@ -42,18 +41,6 @@ I'm currently focused on improving my development skills while building real-wor
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
 </p>
 
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-* Machine Learning
-* Data Analysis
-* Exploratory Data Analysis
-* Computer Vision
-* YOLO
-* AI-powered applications
 
 ### 🔌 Electronics & Embedded
 
@@ -69,7 +56,7 @@ I'm currently focused on improving my development skills while building real-wor
 * MQTT
 * PCB & Electronics Design
 * Wireless Communication
-* Robotics
+
 
 ### 🌐 Web Development
 
@@ -110,40 +97,6 @@ Sensors → Rover → AI Detection → Communication → Rescue Monitoring
 
 ---
 
-### 📡 IoT Monitoring Systems
-
-Building IoT prototypes using microcontrollers and sensors.
-
-**Technologies:**
-
-`ESP32` `ESP8266` `Arduino` `MQTT` `ThingsBoard`
-
-Working with:
-
-* Sensor data acquisition
-* Real-time dashboards
-* MQTT communication
-* Cloud-based monitoring
-* Data visualization
-
----
-
-### 🧠 Machine Learning Projects
-
-Exploring practical ML concepts through small projects.
-
-Currently working with:
-
-* Linear Regression
-* Logistic Regression
-* Classification
-* Data preprocessing
-* EDA
-* Model evaluation
-* Prediction systems
-
----
-
 ### 🌐 Web Development Projects
 
 Building websites and web applications while learning modern frontend and backend development.
@@ -166,13 +119,13 @@ Current focus:
 * VS Code
 * Arduino IDE
 * Google Colab
-* Jupyter Notebook
+  
 
 ### Design & Content
 
 * Canva
 * Adobe Photoshop
-* Adobe Illustrator
+  
 
 ### AI Tools
 
