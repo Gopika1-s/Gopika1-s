@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gopika
 
-### `Electronics Student | AI & IoT Enthusiast | Full-Stack Developer in Progress`
+### `Electronics Student | AI & IoT Enthusiast | Full-Stack Developer `
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+with+Logic+%F0%9F%A7%A0;Electronics+%2B+AI+%2B+Software;IoT+%7C+Embedded+Systems+%7C+AI;Turning+Ideas+into+Working+Projects;Learning.+Building.+Improving." alt="Typing SVG" />
@@ -74,38 +74,6 @@ Currently learning:
 
 ---
 
-## 🚀 Current Projects
-
-### 🚨 AI-Based Disaster Rescue System
-
-An intelligent rescue system combining **autonomous robotics, IoT and AI**.
-
-**Concept:**
-
-```text
-Sensors → Rover → AI Detection → Communication → Rescue Monitoring
-                         ↓
-                       Drone
-```
-
-🔹 Autonomous rover
-🔹 Drone-assisted surveillance
-🔹 Environmental sensing
-🔹 AI-based object/person detection
-🔹 Remote monitoring
-🔹 IoT communication
-
----
-
-### 🌐 Web Development Projects
-
-Building websites and web applications while learning modern frontend and backend development.
-
-Current focus:
-
-`HTML` → `CSS` → `JavaScript` → `Backend` → `Database`
-
----
 
 ## 🧰 Tools I Use
 
@@ -143,8 +111,7 @@ Current focus:
 │                                               │
 │  🤖 Machine Learning                          │
 │  🔌 Embedded Systems                          │
-│  📡 IoT & MQTT                                │
-│  🌐 Full-Stack Web Development                │
+│  📡 IoT & MQTT                                              │
 │  👁️ Computer Vision                           │
 │  🚁 Robotics                                  │
 │  🧠 AI Application Development                │
@@ -157,10 +124,9 @@ Current focus:
 
 ## 🎯 2026 Goals
 
-* 🚀 Build and deploy real-world projects
+
 * 🧠 Strengthen my AI/ML fundamentals
 * 🔌 Build advanced embedded & IoT systems
-* 🌐 Become comfortable with full-stack development
 * 📄 Explore research papers and technical documentation
 * 🏆 Participate in hackathons
 * 💡 Work on innovative engineering solutions
